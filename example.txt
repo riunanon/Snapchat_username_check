@@ -1,0 +1,7 @@
+>>> Type the username you want to check: username(input)
+
+if status == ['ok']:
+>>> available!
+
+else:
+>>> Not available.
